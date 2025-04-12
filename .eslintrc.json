@@ -6,8 +6,7 @@
   ],
   "rules": {
     "no-console": ["error", { "allow": ["info", "warn", "error"] }],
-    "tailwindcss/classnames-order": "error",
-    "@typescript-eslint/no-require-imports": "off"
+    "tailwindcss/classnames-order": "error"
   },
   "overrides": [
     {
